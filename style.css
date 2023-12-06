@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family:serif;
+}
+
+#head{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#mid{
+    padding-bottom: 40px;   
+}
+
+#table{
+    margin-left: 20%;
+    
+}
+
+table{
+    width: 80%;
+    border: 2px solid;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+td,th{
+    padding: 8px;
+    text-align: center;
+    border: 1px solid;
+    font-weight: bold;
+}
+
+th:hover{
+    color: white;
+    background-color: black;
+}
+
+.eng:hover{
+    background-color: yellow;
+}
+
+.web:hover{
+    background-color: orange;
+}
+
+.acc:hover{
+    background-color: green;
+}
+
+.bc:hover{
+    background-color: blue;
+}
+
+.r:hover{
+    background-color: red;
+}
+
